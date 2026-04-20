@@ -1,0 +1,404 @@
+=== INTELLIGIN DATA SOLUTIONS — FULL WEBSITE CONTENT ===
+
+--- COMPANY INFO ---
+Name: Intelligin Data Solutions
+Tagline: Better Data. Better Business Decisions.
+Founded: 2023
+Location: 2023, Belgium Square, Near Hotel Lords Plaza, Surat Station Road, Surat, Gujarat — 395003, India
+Website: intelligindatasolutions.com
+Email: admin.intelligin@gmail.com
+Phone 1: +91 8418803403 (Vishal Vishwakarma - Data & Automation Consultant)
+Phone 2: +91 74908 03306 (JP Mehta - Technology Consultant)
+Social Instagram: https://www.instagram.com/intelligin
+Social LinkedIn: https://www.linkedin.com/in/intelligin-data-solutions-506a833b5
+Social Facebook: https://www.facebook.com/share/1S889yNoVA/
+
+--- HERO SECTION ---
+Headline: Better Data. Better Business Decisions.
+Sub: Intelligin Data Solutions — Surat's leading AI automation & data analytics company.
+We build custom ERP software, CRM automation, Power BI dashboards and mobile apps
+that transform how Gujarat businesses operate, decide and grow.
+Badge: Data-Driven Business Automation
+CTA1: Book Free Consultation
+CTA2: Explore Services
+
+Hero Stats:
+- 60% Efficiency Gain
+- 15+ Service Types
+- 100% Custom Built
+
+Live Business Metrics Panel:
+- Operational Efficiency: +60%
+- Decision Accuracy: +68%
+- Manual Work Reduced: 72%
+- Operational Costs: -42%
+- Revenue Growth: +55%
+- System Performance: 94%
+- FREE Consultation for New Clients
+
+--- TICKER ITEMS ---
+AI Automation | Data Analytics | App Development | Mini ERP Systems |
+Business Intelligence | Digital Marketing | Export Intelligence |
+Custom Software | Process Automation | IT Recruitment |
+Dynamic Dashboards | Data Engineering
+
+--- ABOUT SECTION ---
+Label: Who We Are — Surat, Gujarat
+Heading: Your Complete Digital Transformation Partner
+Body: Intelligin is a Data & Automation consulting firm in Surat, India. We engineer
+end-to-end technology solutions — from strategy to deployment — making businesses
+faster, smarter, and decisively more profitable.
+
+Features:
+- AI & Automation — Intelligent 24/7 systems
+- Data Analytics — Insights that drive action
+- Custom Software — Built for your workflow
+- Export Intelligence — Global trade data
+- App & Web Dev — Modern digital products
+- IT Recruitment — Tech & non-tech roles
+
+Badges:
+- +68% Decision Accuracy
+- 30-60% Efficiency Boost
+
+--- SERVICES (12 total) ---
+
+01. App Development
+Stat: 3× faster operations
+Tags: iOS, Android, Web
+Desc: Custom mobile & web apps built for your exact business workflows.
+Highs: Fully custom UI/UX | Cross-platform iOS & Android | Deep ERP/CRM integration | Offline-first capability
+Lows: Requires clear upfront requirements | Ongoing maintenance needed | Higher initial cost than no-code
+Uses: Field sales & inventory tracking | Customer booking & ordering apps | Internal HR & attendance | Delivery & logistics
+Tech: React Native, Flutter, iOS, Android, Node.js, Firebase, REST API
+Stats Panel: 3× Faster Ops | 40% Cost Saved | 6 wks MVP Ready
+
+02. Website Development
+Stat: +45% more conversions
+Tags: React, SEO, CMS
+Desc: High-performance, conversion-focused websites with modern UI/UX.
+Highs: Lightning-fast Core Web Vitals | Fully responsive | Built-in CMS | Conversion-optimised CTAs
+Lows: Complex features take longer | Regular SEO maintenance needed | Hosting costs ongoing
+Uses: Corporate & brand websites | E-commerce stores | Landing page campaigns | Customer self-service portals
+Tech: React, Next.js, WordPress, Webflow, Tailwind, GraphQL, Shopify
+Stats Panel: +45% Conversions | <2s Load Time | Top 3 SEO Rank
+
+03. Mini ERP Development
+Stat: 60% less manual work
+Tags: Inventory, HR, Finance
+Desc: Lightweight custom ERP systems tailored to your business size.
+Highs: Fraction of SAP/Oracle cost | Built for your workflow | Real-time reports | Role-based access
+Lows: Takes 3-6 weeks | Data migration needs planning | Periodic upgrades needed
+Uses: Manufacturing & production tracking | Retail inventory & billing | SME HR & payroll | Purchase order management
+Tech: Python, Django, PostgreSQL, React, REST API, Docker, Excel Integration
+Stats Panel: 60% Less Manual Work | ₹ saved vs SAP/Oracle | 4 wks Go Live
+
+04. Software Development
+Stat: 2× faster delivery
+Tags: Python, Java, Cloud
+Desc: Scalable desktop and enterprise software for complex operations.
+Highs: Architected for scale | Seamless API integration | Automated testing & CI/CD | Source code ownership
+Lows: Requires detailed spec | 3-6 months deployment | Ongoing support needed
+Uses: Enterprise resource management | Custom CRM & portals | Billing & subscription platforms | API integrations
+Tech: Python, Java, Node.js, React, AWS, Docker, Kubernetes, PostgreSQL
+Stats Panel: 2× Faster Delivery | 99.9% Uptime SLA | ∞ Scalability
+
+05. AI Automation
+Stat: 72% tasks automated
+Tags: LLM, ChatBot, NLP
+Desc: LLM workflows and AI-powered systems to slash manual work.
+Highs: Custom-trained AI models | Automated email/lead/report generation | Connects WhatsApp/email/CRM/ERP | Continuous learning
+Lows: Requires quality training data | Complex LLM integrations need monitoring | Edge cases need human handling
+Uses: Customer support chatbots | Automated report generation | Lead scoring & qualification | Invoice & document processing
+Tech: OpenAI GPT-4, LangChain, Python, Anthropic Claude, Zapier, n8n, Webhook
+Stats Panel: 72% Tasks Automated | 24/7 Uptime | 10× Output Speed
+
+06. Data Analytics & Visualization
+Stat: 68% better decisions
+Tags: Power BI, Python, SQL
+Desc: Transform raw data into clear, interactive, actionable insights.
+Highs: Connects all data sources | Predictive analytics | Interactive filters | Automated scheduled reports
+Lows: Requires clean structured data | Advanced models need 6-12 months history | Dashboards need periodic review
+Uses: Sales performance dashboards | Supply chain & inventory analytics | Customer behaviour analysis | Financial forecasting & P&L
+Tech: Power BI, Tableau, Python, Pandas, Matplotlib, SQL, Excel, Looker
+Stats Panel: 68% Better Decisions | 10× Faster Insights | 100% Custom Reports
+
+07. Dynamic Dashboards
+Stat: 100% live visibility
+Tags: Real-time, KPI, BI
+Desc: Real-time KPI dashboards and business intelligence reporting.
+Highs: Live data refresh | Role-based views | Mobile-friendly | Auto KPI alerts
+Lows: KPIs must be defined upfront | Live pipelines need maintenance | Multi-source may have latency
+Uses: Executive KPI command centre | Sales team daily performance | Warehouse & inventory live view | Marketing campaign tracking
+Tech: Power BI, Grafana, React, D3.js, WebSockets, Python, REST API, SQL
+Stats Panel: Real-time Data Updates | 30+ KPI Widgets | 100% Custom Layout
+
+08. Process Automation
+Stat: 80% time saved
+Tags: Python, SQL, RPA
+Desc: Python, SQL & intelligent frameworks for every workflow.
+Highs: End-to-end automation | Zero human error | Overnight processing | Cross-system triggers
+Lows: Process mapping required upfront | Edge cases need human handling | 1-3 weeks initial setup
+Uses: Daily sales/inventory reports via WhatsApp | Automated invoice generation & follow-ups | Data sync between Excel, Tally & ERP | Staff attendance & leave processing
+Tech: Python, SQL, Selenium, n8n, Zapier, Power Automate, Excel VBA, REST API
+Stats Panel: 80% Time Saved | 99.9% Accuracy | 24/7 Auto-runs
+
+09. Project Management Systems
+Stat: 40% on-time delivery improvement
+Tags: Gantt, Teams, Tasks
+Desc: Custom production and project tracking built around your team.
+Highs: Custom workflow stages | Real-time task & deadline alerts | Built-in communication threads | Management overview
+Lows: Requires change management | Custom builds take longer than Asana/Jira | Process mapping essential
+Uses: Manufacturing order & production tracking | Client project & deliverable management | Construction milestone tracking | Agency & service team workflows
+Tech: React, Node.js, PostgreSQL, WebSockets, Push Notifications, REST API, Docker
+Stats Panel: +40% On-time Delivery | 100% Task Visibility | 0 Missed Deadlines
+
+10. Export Market Intelligence
+Stat: 50+ countries covered
+Tags: Trade Data, Global, B2B
+Desc: Verified global trade data for data-driven international growth.
+Highs: Verified importer/exporter databases 50+ countries | Competitor export analysis | HS code analysis | Automated weekly market reports
+Lows: 4-8 week customs data delay | Coverage varies by country | Sales team training required
+Uses: Finding international buyers & importers | Competitor export price benchmarking | New market feasibility studies | Trade compliance & HS code mapping
+Tech: Export Data Bank, Python, SQL, Power BI, Excel, API Integration, Trade Analytics
+Stats Panel: 50+ Countries | 1M+ Trade Records | Real-time Data Updates
+
+11. Digital Marketing
+Stat: 5× lead generation
+Tags: Social, SEO, Ads
+Desc: Social media, lead generation & automated sales multiplier.
+Highs: Full-funnel strategy with ROI tracking | AI-powered content calendar | Performance marketing with A/B testing | WhatsApp broadcast automation
+Lows: Organic SEO takes 3-6 months | Paid ads need consistent budget | Content needs team approvals
+Uses: B2B lead generation campaigns | E-commerce sales via Instagram & Facebook | Brand awareness & reputation management | WhatsApp marketing automation
+Tech: Meta Ads, Google Ads, SEO, WhatsApp API, Canva, Analytics, HubSpot, Mailchimp
+Stats Panel: 5× Lead Generation | +320% Organic Reach | 3 Mo Results Timeline
+
+12. IT & Job Recruitment
+Stat: 7 days avg placement
+Tags: Tech, Non-Tech, IT
+Desc: Tech and non-tech placement, referrals & IT solutions on demand.
+Highs: Pre-vetted IT professional network | Tech & non-tech roles | Structured screening with skills tests | 90-day replacement guarantee
+Lows: Niche roles take 2-3 weeks longer | Remote roles need additional vetting | Placement fee on successful hire only
+Uses: Hiring software developers & data engineers | Non-tech operations & sales hiring | Contractual project-based IT staffing | IT outsourcing & managed services
+Tech: Tech Hiring, Non-Tech, IT Staffing, Background Check, Skills Testing, HR Tech
+Stats Panel: 7 days Avg Placement | 95% Match Rate | 0 fee If No Hire
+
+--- METRICS BELT ---
+- 60% Efficiency Gain
+- Real-time Data & Insights
+- 100% Custom Built
+- 3-6 Mo ROI Payback
+- 98% Client Satisfaction
+
+--- BENEFITS SECTION (7 cards) ---
+1. Faster Business Operations — +60% Efficiency
+   Automate repetitive tasks and eliminate manual bottlenecks across every department.
+
+2. Data-Driven Decision Making — +68% Decision Accuracy
+   Live dashboards replace guesswork — leadership acts on real-time business performance.
+
+3. Increased Productivity — 72% Automated
+   AI automation handles repetitive tasks so your team focuses on high-value growth work.
+
+4. Significant Cost Reduction — -45% Cost Saved
+   Cut operational costs by eliminating manual processes and reducing expensive errors.
+
+5. Improved Sales & Marketing — 5× More Leads
+   Targeted campaigns and AI-powered lead scoring multiply your pipeline and close rates.
+
+6. Complete Business Visibility — 360° Visibility
+   One unified dashboard for sales, inventory, HR and finance — all live and connected.
+
+7. Scalable Infrastructure — 10× Scale Ready
+   Architecture built to handle 10x your current load — more users, locations, and data.
+
+--- WHY INTELLIGIN (6 reasons) ---
+1. End-to-End Partner — 100% Full Coverage
+   Strategy to deployment, all under one roof. Single point of contact, no juggling vendors.
+   Bullets: Single contact from idea to live | All services integrated | Full accountability | Post-launch support included
+
+2. 100% Custom Solutions — 0% Template Usage
+   Built precisely around your workflow, not a template.
+   Bullets: Deep discovery before coding | No off-the-shelf software | UI designed for your staff | Easily adjustable as business evolves
+
+3. Deep AI + Data Expertise — 95% AI Maturity
+   Real AI and analytics expertise, not marketing buzzwords.
+   Bullets: LLM integrations & NLP on real problems | Data engineering pipelines | Predictive models | AI trained on your business data
+
+4. Cost-Effective ROI — 3-6 Mo ROI Payback
+   Measurable financial return, typically within 3-6 months.
+   Bullets: 80-90% cheaper than SAP/Salesforce/Oracle | Automation reduces payroll costs | Real-time dashboards eliminate decision errors | ROI positive within 3-6 months
+
+5. Results-First Focus — 98% Satisfaction Rate
+   Measured by your outcomes, not deliverables.
+   Bullets: KPIs defined before building | Weekly progress reviews | 98% client satisfaction | Turn down work we can't deliver excellently
+
+6. 2× Faster Delivery — 2× vs Industry Avg
+   Agile sprints and proven frameworks ship faster.
+   Bullets: 2-week sprint cycles with demos | Reusable component library | Parallel workstreams | Dedicated team assigned
+
+--- PROCESS (5 steps) ---
+01. Discover & Audit — Deep-dive into operations, data flows, and pain points
+02. Strategy & Blueprint — Custom tech roadmap with ROI milestones and timeline
+03. Build & Integrate — Develop, test, and integrate seamlessly into workflow
+04. Deploy & Train — Deploy solution, train team, ensure smooth adoption
+05. Optimize & Scale — Continuous monitoring, optimization, and scaling
+
+--- CONTACT SECTION ---
+Heading: Let's Build Your Smart Business Together
+Subhead: FREE Data Consultation for new clients
+Left column info:
+- Vishal Vishwakarma — Data & Automation Consultant — +91 8418803403
+- JP Mehta — Technology Consultant — +91 74908 03306
+- admin.intelligin@gmail.com
+- 2023, Belgium Square, Near Hotel Lords Plaza, Surat Station Road, Surat
+- intelligindatasolutions.com
+
+Form fields: Full Name | Phone/Email | Company | Service dropdown | Business Challenge
+CTA: Send & Book Free Call
+
+--- FOOTER STATS ---
+60% Efficiency | 15+ Services | 100% Custom | 98% Satisfied | 24/7 AI Support
+
+--- FOOTER LINKS ---
+Services: App Development | AI Automation | Data Analytics | ERP Development | Digital Marketing | IT Recruitment
+Company: About Us | Why Intelligin | Our Process | Benefits | Contact Us
+Contact: +91 8418803403 | +91 74908 03306 | admin.intelligin@gmail.com | Belgium Square address
+
+--- RATINGS & REVIEWS (from Schema) ---
+Rating: 4.9/5
+Reviews: 47
+Review 1: "Intelligin built our ERP and automated our inventory tracking. We saved 60% time on daily operations." — Textile Manufacturer, Surat
+Review 2: "Their data analytics dashboard gives us real-time visibility into our exports. Excellent team in Surat." — Export Business, Gujarat
+
+--- FAQ (from Schema) ---
+Q1: What is Intelligin Data Solutions in Surat?
+A: AI automation and data analytics company in Surat, Gujarat, India. Founded 2023. Custom ERP, CRM automation, Power BI dashboards, mobile apps. +91 8418803403
+
+Q2: Which is the best data analytics company in Surat Gujarat?
+A: Intelligin Data Solutions — Power BI dashboards, Python analytics, custom ERP and BI solutions for textile, manufacturing and trading SMEs.
+
+Q3: Does Intelligin provide AI automation services in Surat?
+A: Yes. LLM chatbots, process automation using Python and SQL, CRM automation, intelligent workflow systems. Reduced manual work by up to 72%.
+
+Q4: How much does custom software development cost in Surat?
+A: Flexible and affordable pricing depending on scope. Book free consultation at intelligindatasolutions.com or +91 8418803403.
+
+Q5: Can Intelligin build a mini ERP for my business in Gujarat?
+A: Yes. Custom mini ERP covering inventory, HR, production, finance and sales. Clients report 60% reduction in manual work.
+
+Q6: Does Intelligin offer digital marketing services in Surat?
+A: Yes. SEO, Google Ads, Meta advertising, lead generation, social media marketing, ROI tracking. 5x more leads for clients.
+
+Q7: Where is Intelligin Data Solutions office located?
+A: 2023, Belgium Square, Near Hotel Lords Plaza, Surat Station Road, Surat, Gujarat 395003. admin.intelligin@gmail.com | +91 8418803403
+
+--- CHATBOT SYSTEM PROMPT (internal) ---
+Services: App Development, Website Development, Mini ERP, Software Dev, AI Automation, Data Analytics, Dynamic Dashboards, Process Automation, Digital Marketing, Export Market Intelligence, IT Recruitment
+Key facts: FREE consultation | 30-60% efficiency | 100% custom | ROI 3-6 months
+Founders: Vishal Vishwakarma (Data & Automation), JP Mehta (Technology Consultant)
+Contact: admin.intelligin@gmail.com | +91 8418803403 | +91 74908 03306
+Address: Belgium Square, Surat Station Road, Surat
+Website: intelligindatasolutions.com
+
+--- SEO KEYWORDS (from meta) ---
+Primary: Intelligin, Intelligin Data Solutions, data analytics company Surat, AI automation company Surat, custom software development Surat, ERP software development Gujarat, business automation Surat, digital transformation Surat
+Secondary: CRM automation Gujarat, Power BI dashboard Surat, app development Surat, website development Surat, process automation India, export market intelligence Surat, IT consulting Surat Gujarat, mini ERP software Surat, AI chatbot development Surat, machine learning company India, Python automation Surat
+Local: textile industry software Surat, manufacturing ERP Gujarat, SME automation India, business data consultant Surat Gujarat
+People: Vishal Vishwakarma data consultant, JP Mehta technology consultant
+
+--- AREAS SERVED ---
+Surat | Vadodara | Ahmedabad | Mumbai | Gujarat | Maharashtra | India
+
+--- BUSINESS HOURS ---
+Monday–Saturday: 9:00 AM – 7:00 PM
+
+--- PAYMENT ---
+Cash | Bank Transfer | UPI | INR
+
+=== END OF CONTENT ===
+
+
+
+=== INTELLIGIN — ALL KEYS, URLS & CREDENTIALS ===
+
+--- EMAILJS ---
+Public Key:        nKRijMlZyafUILirN
+Service ID:        service_bx666ch
+Template ID:       template_5cz74c5
+To Email:          admin.intelligin@gmail.com
+
+--- WEB3FORMS ---
+Access Key:        94476a95-2032-4d2a-8af3-c50cf8891e3030
+Endpoint:          https://api.web3forms.com/submit
+
+--- GOOGLE SHEETS (Apps Script) ---
+Web App URL:       https://script.google.com/macros/s/AKfycbzHOa9N0h9LUnpSdk8cmJy7rKHhFkH4K87VzmhrUFmPnfouJXiDrvNIA1okG1xC16wL/exec
+Method:            GET with query params
+Params sent:       name, contact, company, service, message, timestamp
+
+--- GOOGLE SEARCH CONSOLE ---
+Verification:      ADD_YOUR_GOOGLE_SEARCH_CONSOLE_CODE_HERE  (not filled yet)
+
+--- BING WEBMASTER ---
+Verification:      ADD_BING_WEBMASTER_CODE_HERE  (not filled yet)
+
+--- ANTHROPIC (Claude AI - Chatbot) ---
+Endpoint:          https://api.anthropic.com/v1/messages
+Model:             claude-sonnet-4-20250514
+Max Tokens:        1000
+
+--- SOCIAL MEDIA LINKS ---
+Instagram:         https://www.instagram.com/intelligin
+Instagram (full):  https://www.instagram.com/intelligin?igsh=ZWRhY3p1NTNjZzQ1
+LinkedIn:          https://www.linkedin.com/in/intelligin-data-solutions-506a833b5
+Facebook:          https://www.facebook.com/share/1S889yNoVA/
+
+--- WEBSITE URLS ---
+Main Domain:       https://www.intelligindatasolutions.com/
+Canonical:         https://www.intelligindatasolutions.com/
+hreflang en-IN:    https://www.intelligindatasolutions.com/
+OG Image:          https://www.intelligindatasolutions.com/og-image.jpg
+Logo:              https://www.intelligindatasolutions.com/logo.png
+
+--- INTERNAL PAGE ANCHORS ---
+About:             https://www.intelligindatasolutions.com/#about-sec
+Services:          https://www.intelligindatasolutions.com/#srv-sec
+Benefits:          https://www.intelligindatasolutions.com/#ben-sec
+Why Us:            https://www.intelligindatasolutions.com/#why-sec
+Process:           https://www.intelligindatasolutions.com/#proc-sec
+Contact:           https://www.intelligindatasolutions.com/#con-sec
+
+--- WHATSAPP LINKS ---
+Vishal Direct:     https://wa.me/918418803403
+With Message:      https://wa.me/918418803403?text=Hi%20Intelligin!%20I%20want%20a%20free%20data%20consultation%20for%20my%20business.
+
+--- PHONE NUMBERS ---
+Vishal Vishwakarma: +91 8418803403  (tel:+918418803403)
+JP Mehta:           +91 74908 03306 (tel:+917490803306)
+
+--- EMAIL ---
+Admin:             admin.intelligin@gmail.com
+
+--- SCHEMA IDs ---
+Business ID:       https://www.intelligindatasolutions.com/#business
+
+--- CDN / EXTERNAL SCRIPTS USED ---
+Three.js r128:     https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js
+EmailJS v4:        https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js
+
+--- GOOGLE FONTS ---
+URL:               https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Instrument+Serif:ital@0;1&display=swap
+
+--- GEO COORDINATES ---
+Latitude:          21.1702
+Longitude:         72.8311
+ICBM:              21.1702, 72.8311
+
+--- SEARCH ACTION (Schema) ---
+Target:            https://www.intelligindatasolutions.com/?s={search_term_string}
+
+--- TWITTER HANDLE ---
+@intelligin
+
+=== END ===
