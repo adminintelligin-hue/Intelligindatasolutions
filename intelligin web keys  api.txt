@@ -1,0 +1,9 @@
+service ID: service_bx666ch
+
+template id : template_5cz74c5
+
+public Key:  nKRijMlZyafUILirN
+
+access key : 94476a95-2032-4d2a-8af3-c50cf8891e3030
+
+app script url : https://script.google.com/macros/s/AKfycbzHOa9N0h9LUnpSdk8cmJy7rKHhFkH4K87VzmhrUFmPnfouJXiDrvNIA1okG1xC16wL/exec
